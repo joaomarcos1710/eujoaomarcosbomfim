@@ -28,6 +28,11 @@ Preto, off-white e vermelho dominam. Cor nova só com justificativa.
 - **League Gothic**: títulos, frases de impacto, números grandes, capas.
 - **Hanken Grotesk**: textos, legendas, subtítulos, dados de treino.
 
+**Fontes reserva (só quando o app de edição não tiver a fonte da marca, ex.: CapCut, Edits):**
+- Títulos e números: **Oswald** ou **Anton** (mesma família condensada da League Gothic).
+- Legenda e texto na tela: **Inter** ou **Manrope**.
+- Não trocar de fonte por tipo de vídeo. A identidade vem da fonte fixa.
+
 ## Três linhas visuais
 1. **Editorial:** foto em preto e branco + título curto em League Gothic.
 2. **Técnica:** números e gráficos. Aqui entra o azul.
