@@ -4,14 +4,14 @@ Aqui ficam só as dicas que encaixam num perfil de atleta amador, documental e s
 
 ---
 
-## Fonte 1: @lucureau (Luíza Cureau)
-Ela ensina criação de conteúdo e tem 456 mil seguidores. Análise de 12 posts públicos feita em 20/11/2026.
+## Referência 1
+Criadora que ensina criação de conteúdo. Análise de 12 posts públicos feita em 20/11/2026.
 
 ### 1. Gancho
 Está em [`ganchos.md`](ganchos.md), na seção "Como montar o gancho".
 
 ### 2. Cenário de gravação
-Opinião dela. Trocar o ângulo de gravação ajuda a segurar a atenção. Para corrida, valem três ângulos:
+Opinião da referência. Trocar o ângulo de gravação ajuda a segurar a atenção. Para corrida, valem três ângulos:
 - **Lente 0.5 andando ou correndo:** aquecimento, trote, pós-treino.
 - **Câmera traseira:** tênis, relógio, pista, amanhecer.
 - **Câmera perto, sentado no chão:** conversa pós-treino.
@@ -40,7 +40,7 @@ Depois pergunte: o que o melhor tem que o pior não tem? O que aparecer vira **u
 | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 
 ### 5. Ritmo semanal de Stories
-> ⚠️ A ordem dos dias veio do resumo de uma seguidora nos comentários. Confirme assistindo com som: instagram.com/lucureau/reel/Df2HPUsgBBK
+> ⚠️ A ordem dos dias veio do resumo de uma seguidora nos comentários. Confirme assistindo o vídeo original com som.
 
 | Dia | Função | Exemplo corrida |
 |---|---|---|
@@ -58,7 +58,7 @@ Depois pergunte: o que o melhor tem que o pior não tem? O que aparecer vira **u
 - No último slide do carrossel: "manda para quem corre com você".
 
 ### 7. Carrossel de repetição com fotos reais
-Opinião dela, formato motivacional. Cada slide tem uma foto real sua e a mesma frase. Só a última frase muda, e é a sua conclusão, sem clichê.
+Opinião da referência, formato motivacional. Cada slide tem uma foto real sua e a mesma frase. Só a última frase muda, e é a sua conclusão, sem clichê.
 
 Exemplo, só com fatos verdadeiros:
 - "Choveu. Fui."

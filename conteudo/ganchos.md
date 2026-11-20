@@ -32,7 +32,7 @@ Os 3 ganchos das referências, reescritos para corrida amadora. Use texto na tel
 Teste antes de postar: **alguém mandaria isso para um amigo que corre?**
 
 ## Como montar o gancho (estrutura)
-Referência: carrossel da @lucureau sobre ganchos. É opinião dela, sem dado; vale testar e medir.
+Referência 1 (ver [`guia-de-aprendizados.md`](guia-de-aprendizados.md)). É opinião, sem dado: vale testar e medir.
 
 1. **Junte 3 dos 4 tipos de gancho** nos 2 primeiros segundos:
    - **Falado:** a frase forte.
