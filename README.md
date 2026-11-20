@@ -13,6 +13,7 @@ Portfólio da marca **João Marcos | Atleta amador de corrida**.
 | [`conteudo/temporada-1-recomeco.md`](conteudo/temporada-1-recomeco.md) | O ciclo de treino contado como série |
 | [`conteudo/banco-de-ideias.md`](conteudo/banco-de-ideias.md) | 50 pautas prontas |
 | [`conteudo/ganchos.md`](conteudo/ganchos.md) | Modelos de abertura para Reels |
+| [`conteudo/fe/`](conteudo/fe/) | Ideias de textos de fé ligados à corrida |
 | [`media-kit/media-kit.md`](media-kit/media-kit.md) | Modelo de apresentação para marcas (usar mais tarde) |
 | [`index.html`](index.html) | Site pessoal (GitHub Pages) |
 
