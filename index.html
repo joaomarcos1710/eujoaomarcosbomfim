@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>João Marcos | Atleta amador de corrida</title>
+<meta name="description" content="Corredor amador de rua do Rio de Janeiro. Corrida, disciplina e fé, com números reais.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=League+Gothic&family=Hanken+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  /* Paleta oficial (marca/identidade-visual.md) */
+  :root{
+    --preto:#0B0B0C; --offwhite:#F4F4F1; --vermelho:#E63329;
+    --cinza:#8A8A8A; --azul:#1F6FEB; --linha:#DCDCD7;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--offwhite);color:var(--preto);font:400 18px/1.6 "Hanken Grotesk",system-ui,sans-serif}
+  a{color:inherit}
+  .wrap{max-width:960px;margin:0 auto;padding:0 24px}
+  .display{font-family:"League Gothic",Impact,sans-serif;text-transform:uppercase;line-height:.9;letter-spacing:.5px}
+  .vermelho{color:var(--vermelho)}
+  .rotulo{font-size:13px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--cinza)}
+
+  /* Topo */
+  header{padding:20px 0;border-bottom:1px solid var(--linha)}
+  header .wrap{display:flex;justify-content:space-between;align-items:center}
+  header nav a{margin-left:20px;font-size:15px;font-weight:600;text-decoration:none}
+  header nav a:hover{color:var(--vermelho)}
+  @media (max-width:560px){header nav{display:none}}
+
+  /* Abertura */
+  .hero{padding:72px 0 64px}
+  .hero h1{font-size:clamp(72px,16vw,168px);line-height:1;margin-top:24px}
+  .assinatura{margin-top:16px;font-weight:700;letter-spacing:4px;font-size:15px}
+  .hero p.lead{margin-top:28px;max-width:560px;font-size:21px}
+
+  section{padding:64px 0;border-top:1px solid var(--linha)}
+  section h2{font-size:clamp(48px,9vw,84px);margin:8px 0 24px}
+
+  /* Sobre */
+  .modalidades{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-top:32px}
+  .card{background:#fff;border:1px solid var(--linha);padding:20px}
+  .card .num{font-family:"League Gothic",Impact,sans-serif;font-size:40px;color:var(--vermelho);line-height:1}
+  .card h3{font-size:18px;margin:8px 0 4px}
+  .card p{font-size:15px;color:#3a3a3a}
+
+  /* Temporada (bloco escuro) */
+  .temporada{background:var(--preto);color:var(--offwhite);border-top:0}
+  .temporada .rotulo{color:var(--cinza)}
+  .fases{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:2px;margin-top:32px}
+  .fase{background:#1a1a1c;padding:20px}
+  .fase .display{font-size:34px}
+  .fase p{font-size:15px;color:#c9c9c4;margin-top:6px}
+  .dados{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:16px;margin-top:32px}
+  .dado .valor{font-family:"League Gothic",Impact,sans-serif;font-size:48px;color:var(--azul);line-height:1}
+  .dado .legenda{font-size:13px;color:var(--cinza);letter-spacing:1px;text-transform:uppercase}
+
+  /* Livro e contato */
+  .livro{display:flex;gap:32px;flex-wrap:wrap;align-items:center}
+  .livro .texto{flex:1 1 320px}
+  .botao{display:inline-block;margin-top:20px;padding:14px 22px;background:var(--preto);color:var(--offwhite);text-decoration:none;font-weight:700;letter-spacing:1px}
+  .botao:hover{background:var(--vermelho)}
+  .redes{list-style:none;display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}
+  .redes a{display:block;padding:10px 16px;border:1px solid var(--preto);text-decoration:none;font-weight:600}
+  .redes a:hover{background:var(--preto);color:var(--offwhite)}
+  footer{padding:32px 0;font-size:14px;color:var(--cinza);border-top:1px solid var(--linha)}
+  blockquote{font-size:24px;font-weight:600;border-left:4px solid var(--vermelho);padding-left:20px;margin-top:32px;max-width:640px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <strong>@eujoaomarcosbomfim</strong>
+    <nav><a href="#sobre">Sobre</a><a href="#temporada">Temporada</a><a href="#contato">Contato</a></nav>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <div class="wrap">
+      <p class="rotulo">Atleta amador de corrida · Rio de Janeiro</p>
+      <h1 class="display">João <span class="vermelho">Marcos</span></h1>
+      <p class="assinatura">CORRIDA • DISCIPLINA • FÉ</p>
+      <p class="lead">Corro meia maratona, treino CrossFit e estou aprendendo a nadar. Aqui eu documento a jornada com números reais, nos dias bons e nos ruins.</p>
+    </div>
+  </div>
+
+  <section id="sobre">
+    <div class="wrap">
+      <p class="rotulo">01 · Sobre</p>
+      <h2 class="display">Uma jornada <span class="vermelho">real</span></h2>
+      <p>Não sou atleta profissional nem treinador. Sou um cara que concilia trabalho, família e treino, como a maioria de quem me acompanha. É dessa perspectiva que eu falo.</p>
+      <div class="modalidades">
+        <div class="card"><div class="num">01</div><h3>Corrida</h3><p>O centro de tudo. Foco em meia maratona.</p></div>
+        <div class="card"><div class="num">02</div><h3>CrossFit e musculação</h3><p>A base de força que sustenta os quilômetros.</p></div>
+        <div class="card"><div class="num">03</div><h3>Natação</h3><p>A etapa nova. Ainda aprendendo.</p></div>
+      </div>
+      <blockquote>"Não corro para ser melhor que os outros. Corro para ser melhor do que fui ontem."</blockquote>
+    </div>
+  </section>
+
+  <section id="temporada" class="temporada">
+    <div class="wrap">
+      <p class="rotulo">02 · Temporada 1</p>
+      <h2 class="display">O <span class="vermelho">Recomeço</span></h2>
+      <p>Fiquei parado desde setembro. A Temporada 1 é a volta, contada semana a semana no Diário de um Corredor.</p>
+      <div class="fases">
+        <div class="fase"><div class="display">Base</div><p>O retorno. Pace sem filtro.</p></div>
+        <div class="fase"><div class="display">Construção</div><p>Volume, longões e dias ruins.</p></div>
+        <div class="fase"><div class="display">Polimento</div><p>Último treino forte.</p></div>
+        <div class="fase"><div class="display">Largada</div><p>O resultado, com contexto.</p></div>
+      </div>
+      <!-- Troque "em breve" pelos dados reais quando tiver (ver conteudo/temporada-1-recomeco.md) -->
+      <div class="dados">
+        <div class="dado"><div class="valor">em breve</div><div class="legenda">Prova-alvo</div></div>
+        <div class="dado"><div class="valor">em breve</div><div class="legenda">Km na temporada</div></div>
+        <div class="dado"><div class="valor">em breve</div><div class="legenda">Meta de tempo</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="livro">
+    <div class="wrap livro">
+      <div class="texto">
+        <p class="rotulo">03 · Além da corrida</p>
+        <h2 class="display">Entre Luzes <span class="vermelho">e Sombras</span></h2>
+        <p>Também escrevo. <em>Entre Luzes e Sombras: A Jornada de Lia</em> é o meu livro.</p>
+        <a class="botao" href="https://a.co/d/4Qgg5Ty" target="_blank" rel="noopener">Ver na Amazon</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contato">
+    <div class="wrap">
+      <p class="rotulo">04 · Acompanhe</p>
+      <h2 class="display">Vem <span class="vermelho">junto</span></h2>
+      <ul class="redes">
+        <li><a href="https://instagram.com/eujoaomarcosbomfim" target="_blank" rel="noopener">Instagram</a></li>
+        <!-- Atualize os links abaixo se o @ mudar também nessas redes -->
+        <li><a href="https://youtube.com/@bomfim1710" target="_blank" rel="noopener">YouTube</a></li>
+        <li><a href="https://tiktok.com/@bomfim1710" target="_blank" rel="noopener">TikTok</a></li>
+        <li><a href="https://threads.com/@bomfim1710" target="_blank" rel="noopener">Threads</a></li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">João Marcos · CORRIDA • DISCIPLINA • FÉ · Não é sobre chegar primeiro. É sobre continuar evoluindo.</div>
+</footer>
+
+</body>
+</html>
