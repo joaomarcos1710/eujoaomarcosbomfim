@@ -66,5 +66,12 @@ Nenhuma pauta usa número inventado. Onde precisar de dado, entra `[PREENCHER]`.
 49. **C** Mitos de corrida que eu acreditava quando comecei.
 50. **R** Respondendo às perguntas que sempre me fazem sobre correr.
 
+## Extras (revisão de 20/11/2026)
+51. **C** Quanto custa correr uma meia maratona: inscrição, tênis, gel e transporte. Valores reais: [PREENCHER].
+52. **C** Checklist do que levo para o dia da prova (formato lista para salvar).
+53. **C** "Antes de correr 21 km, eu…": post de origem para fixar, com fato real.
+
+**CTA que mais funcionou na referência:** "Salva e manda para um amigo que corre." Tem destinatário definido. Evitar "comenta PALAVRA": no próprio perfil de referência, foi o post com menos curtidas.
+
 ---
 **Ponto fraco:** pautas de opinião (46, 47, 49) exigem cuidado para não soar como treinador. Sempre fale da sua experiência e, quando citar estudo, cite a fonte.

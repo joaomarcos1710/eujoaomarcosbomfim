@@ -56,3 +56,8 @@ Fundo preto, ícone branco, detalhe vermelho: TREINOS · CORRIDAS · PROVAS · E
 | Título grande e condensado com 1 palavra em destaque | O roxo, que é identidade de outro perfil |
 | Slides numerados (01, 02, 03) | Pontilhado e efeitos em excesso |
 | Foto P&B com texto por cima nos posts editoriais | O foco em patrocínio como tema principal |
+| Rótulo de série em caixinha (Hanken Grotesk, caixa alta, contorno cinza): "DIÁRIO DE UM CORREDOR · EP. 03", "PROVA", "TREINO" | Serifada itálica misturada no título (fora das 2 fontes da marca) |
+| Caixa da "moral" do slide: 1 frase com fundo claro ou borda vermelha | Arte gerada por IA e cartaz vintage |
+| No máximo 2 a 3 linhas de texto por slide | Meme genérico para pedir follow |
+
+**Lição dos números dele (20/11/2026):** os 2 posts que mais performaram ("50 ideias", 207 curtidas, e um passo a passo, 131) fugiam da identidade visual do perfil. O alcance veio e a marca não foi junto. Aqui o post de salvar também usa o template da marca.

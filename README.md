@@ -11,7 +11,8 @@ Portfólio da marca **João Marcos | Atleta amador de corrida**.
 | [`marca/identidade-visual.md`](marca/identidade-visual.md) | Paleta, fontes, regras de carrossel e pesquisa de cores |
 | [`conteudo/lancamento.md`](conteudo/lancamento.md) | Os primeiros posts, a bio e o post fixado |
 | [`conteudo/temporada-1-recomeco.md`](conteudo/temporada-1-recomeco.md) | O ciclo de treino contado como série |
-| [`conteudo/banco-de-ideias.md`](conteudo/banco-de-ideias.md) | 50 pautas prontas |
+| [`marca/referencias.md`](marca/referencias.md) | Perfis analisados como referência: o que pegar e o que evitar |
+| [`conteudo/banco-de-ideias.md`](conteudo/banco-de-ideias.md) | 53 pautas prontas |
 | [`conteudo/ganchos.md`](conteudo/ganchos.md) | Modelos de abertura para Reels |
 | [`conteudo/fe/`](conteudo/fe/) | Ideias de textos de fé ligados à corrida |
 | [`media-kit/media-kit.md`](media-kit/media-kit.md) | Modelo de apresentação para marcas (usar mais tarde) |
