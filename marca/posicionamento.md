@@ -4,7 +4,7 @@
 **CORRIDA • DISCIPLINA • FÉ**
 
 ## Em uma frase
-Atleta amador e ex-sedentário que documenta, com números reais, a jornada na corrida de rua.
+Atleta amador que documenta, com números reais, a jornada na corrida de rua.
 
 ## Quem eu sou no perfil
 - Corredor amador do Rio de Janeiro, focado em meia maratona.
@@ -23,7 +23,7 @@ Atleta amador e ex-sedentário que documenta, com números reais, a jornada na c
 Usar com moderação. Não precisa aparecer em todo post.
 
 ## Para quem eu falo
-1. Quem está começando a correr ou quer sair do sedentarismo.
+1. Quem está começando a correr.
 2. Corredor amador que treina para 10 km e 21 km.
 3. Quem concilia trabalho, família e treino.
 

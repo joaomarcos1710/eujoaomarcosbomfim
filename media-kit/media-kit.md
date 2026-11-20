@@ -3,7 +3,7 @@
 > ⚠️ **Ainda não é hora de mandar para marca.** As referências mostram que a empresa quer saber quem é o seu público, quantas pessoas você alcança e o que você entrega. Sem 3 meses de Temporada 1 e sem números reais do Instagram, este documento seria só promessa. Use-o como modelo e preencha à medida que os dados existirem.
 
 ## 1. Quem sou
-Corredor amador do Rio de Janeiro, ex-sedentário, focado em meia maratona. CrossFit e musculação como base, natação começando. Cristão e autor do livro *Entre Luzes e Sombras: A Jornada de Lia*.
+Corredor amador de rua do Rio de Janeiro, focado em meia maratona. CrossFit e musculação como base, natação começando. Cristão e autor do livro *Entre Luzes e Sombras: A Jornada de Lia*.
 
 **CORRIDA • DISCIPLINA • FÉ**
 

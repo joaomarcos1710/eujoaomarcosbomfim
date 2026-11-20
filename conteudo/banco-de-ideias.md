@@ -47,7 +47,7 @@ Nenhuma pauta usa número inventado. Onde precisar de dado, entra `[PREENCHER]`.
 34. **R** Expectativa x realidade da vida de corredor amador.
 35. **C** 5 erros que cometi no meu primeiro ano correndo.
 36. **R** Coisas que só quem corre de madrugada entende.
-37. **C** De sedentário a meia maratonista: o que mudou de verdade.
+37. **C** O que mudou na minha vida desde a primeira meia maratona.
 38. **R** Dia ruim: correu mal, e tudo bem.
 39. **C** Meu conselho para quem quer começar a correr amanhã.
 40. **P** Onde eu quero estar daqui a 12 meses.

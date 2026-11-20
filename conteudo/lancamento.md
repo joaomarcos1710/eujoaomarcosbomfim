@@ -14,7 +14,7 @@ Sequência do briefing (seção 14), reorganizada para encaixar com a Temporada 
 
 ## Carrossel 1: Quem é João Marcos? (rascunho)
 1. **Capa:** QUEM É **JOÃO MARCOS**? (foto correndo, P&B)
-2. **De onde eu vim:** ex-sedentário. Comecei em [PREENCHER] porque [PREENCHER].
+2. **De onde eu vim:** comecei a correr em [PREENCHER] porque [PREENCHER].
 3. **A virada:** minha primeira prova foi [PREENCHER], em [PREENCHER].
 4. **Hoje:** corrida, CrossFit, musculação e o começo da natação. Tudo isso com trabalho e família.
 5. **O momento:** parado desde setembro. Este perfil começa no recomeço.
@@ -22,13 +22,13 @@ Sequência do briefing (seção 14), reorganizada para encaixar com a Temporada 
 7. **CTA:** Salva e acompanha a Temporada 1. CORRIDA • DISCIPLINA • FÉ
 
 **Legenda (rascunho):**
-> Ex-sedentário, corredor amador, Rio de Janeiro. Fiquei parado desde setembro e decidi recomeçar aqui, em público, com números reais. Próxima parada: [PREENCHER]. Manda para alguém que também está recomeçando.
+> Corredor amador de rua, Rio de Janeiro. Fiquei parado desde setembro e decidi recomeçar aqui, em público, com números reais. Próxima parada: [PREENCHER]. Manda para alguém que também está recomeçando.
 
 ## Bio do Instagram (até 150 caracteres)
 ```
 Atleta amador de corrida 🏃‍♂️ Rio
-Ex-sedentário. Rumo à meia de [PREENCHER]
+Rumo à meia de [PREENCHER]
 CORRIDA • DISCIPLINA • FÉ
 📖 Autor de "Entre Luzes e Sombras"
 ```
-Campo Nome: `João Marcos | Corrida`
+Campo Nome: `João Marcos | Corrida de Rua`
